@@ -9,13 +9,13 @@
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
     background-color: white;; /* define a cor de fundo da página */
-    color: #6ebdc6; /* define a cor padrão dos textos */
+    color: #000000; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #db91d8; /* define a cor de fundo do cabeçalho */
-    color: white; /* define a cor do texto do cabeçalho */
+    background-color: #91108d; /* define a cor de fundo do cabeçalho */
+    color:#000000; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
 }
@@ -33,7 +33,7 @@ main {
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
-    box-shadow: 0px 4px 10px #6ebdc6 (0, 0, 0, 0.15); /* cria uma sombra suave ao redor do card */
+    box-shadow: 0px 4px 10px #0e7580 (0, 0, 0, 0.15); /* cria uma sombra suave ao redor do card */
     margin-bottom: 25px; /* adiciona espaço abaixo do card */
     transition: 0.3s; /* cria transição suave em mudanças visuais */
 }
@@ -59,7 +59,7 @@ main {
 
 /* estiliza todos os botões da página */
 button {
-    background-color: #db91d8; /* define a cor de fundo do botão */
+    background-color: #04098b; /* define a cor de fundo do botão */
     color: white; /* define a cor do texto do botão */
     border: none; /* remove a borda padrão */
     padding: 12px 18px; /* adiciona espaçamento interno no botão */
@@ -71,7 +71,7 @@ button {
 
 /* efeito aplicado quando o mouse passa sobre o botão */
 button:hover {
-    background-color: #db91d8; /* escurece a cor do botão ao passar o mouse */
+    background-color: #0c0e3a; /* escurece a cor do botão ao passar o mouse */
     transform: scale(1.05); /* aumenta levemente o tamanho do botão */
 }
 
@@ -79,7 +79,7 @@ button:hover {
 #mensagem {
     margin-top: 15px; /* adiciona espaço acima da mensagem */
     font-weight: bold; /* deixa o texto em negrito */
-    color: #db91d8; /* define uma cor azul para a mensagem */
+    color: #250e8d; /* define uma cor azul para a mensagem */
 }
 
 /* estiliza a seção de informações */
@@ -94,7 +94,7 @@ button:hover {
 .informacoes h2 {
     margin-top: 15px; /* adiciona espaço acima do subtítulo */
     margin-bottom: 10px; /* adiciona espaço abaixo do subtítulo */
-    color: #db91d8; /* define cor azul para os subtítulos */
+    color: #6d046a; /* define cor azul para os subtítulos */
 }
 
 /* estiliza a lista da seção de informações */
@@ -106,7 +106,7 @@ button:hover {
 /* estiliza o rodapé */
 footer {
     text-align: center; /* centraliza o texto do rodapé */
-    background-color: #db91d8; /* define a cor de fundo do rodapé */
+    background-color: #91108d; /* define a cor de fundo do rodapé */
     color: white; /* define a cor do texto do rodapé */
     padding: 20px; /* adiciona espaçamento interno */
     margin-top: 30px; /* adiciona espaço acima do rodapé */
