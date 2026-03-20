@@ -9,7 +9,7 @@
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
     background-color: white;; /* define a cor de fundo da página */
-    color: #a7e3ea; /* define a cor padrão dos textos */
+    color: #6ebdc6; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
@@ -33,7 +33,7 @@ main {
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
-    box-shadow: 0px 4px 10px #a7e3ea (0, 0, 0, 0.15); /* cria uma sombra suave ao redor do card */
+    box-shadow: 0px 4px 10px #6ebdc6 (0, 0, 0, 0.15); /* cria uma sombra suave ao redor do card */
     margin-bottom: 25px; /* adiciona espaço abaixo do card */
     transition: 0.3s; /* cria transição suave em mudanças visuais */
 }
@@ -87,7 +87,7 @@ button:hover {
     background-color: white; /* define fundo branco */
     padding: 25px; /* adiciona espaço interno */
     border-radius: 10px; /* arredonda os cantos */
-    box-shadow: 0px 4px 10px #a7e3ea (234, 152, 196, 0.15); /* adiciona sombra suave */
+    box-shadow: 0px 4px 10px #6ebdc6 (234, 152, 196, 0.15); /* adiciona sombra suave */
 }
 
 /* estiliza os subtítulos da seção de informações */
